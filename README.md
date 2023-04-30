@@ -1,2 +1,2 @@
-# API_JS_2
+# API_JS__Number_API
 API projects using Java Script
